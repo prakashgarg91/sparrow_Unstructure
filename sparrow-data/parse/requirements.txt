@@ -1,9 +1,9 @@
-torch==2.2.2
+torch==2.7.1
 unstructured[all-docs]==0.14.5
 unstructured-inference==0.7.33
 rich
 pymupdf4llm==0.0.9
-transformers==4.41.2
+transformers==4.52.1
 sentence-transformers==3.0.1
 numpy==1.26.4
 pypdf==4.3.0
